@@ -1,0 +1,40 @@
+{
+  "name": "grunt-xml-validator",
+  "description": "Grunt plugin to validate XML files",
+  "version": "0.0.1",
+  "homepage": "https://github.com/andersevenrud/grunt-contrib-validate-xml",
+  "author": {
+    "name": "Anders Evenrud",
+    "email": "andersevenrud@gmail.com",
+    "url": "http://andersevenrud.github.io/http://andersevenrud.github.io/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andersevenrud/grunt-contrib-validate-xml.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andersevenrud/grunt-contrib-validate-xml/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/andersevenrud/grunt-contrib-validate-xml/blob/master/LICENSE"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+  },
+  "peerDependencies": {
+    "grunt": ">=0.4.0"
+  },
+  "keywords": [
+    "gruntplugin",
+    "validator",
+    "xml"
+  ],
+  "dependencies": {
+    "xmldom": "0.1.22"
+  }
+}
